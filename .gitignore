@@ -1,0 +1,14 @@
+pretrained_model/vgg16-397923af.pth
+log/test
+log/train
+trained_model/pretrained-vgg-05-1-weight
+trained_model/pretrained-posecnn-test
+trained_model/pretrained-posecnn-linemod
+*.pyc
+*.zip
+trained_model/pretrained-center-linemod
+trained_model/checkpoint.pth.tar
+log/*
+trained_model/*
+pretrained_model/*
+*.ipynb
